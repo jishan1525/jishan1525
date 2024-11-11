@@ -2,7 +2,7 @@
   
 - 👀 I’m interested in Web delevopment
   
-- 🌱 I’m currently learning MERN Stack Developer
+- 🌱 I’m currently learning MERN Stack
   
 - 💞️ I’m looking to collaborate on Web Development and Applications
   

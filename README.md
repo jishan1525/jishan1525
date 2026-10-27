@@ -29,6 +29,19 @@ I'm transitioning into AI Engineering with a strong foundation in **Supervised M
 
 ---
 
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[Project 1 Name](link)** | Short 1-line description of your RAG project | LangChain, FAISS, Streamlit |
+| **[Project 2 Name](link)** | Short 1-line description of your Supervised ML project | Scikit-learn, Pandas, Streamlit |
+
+> More projects coming soon...
+
+---
+
 ### 📈 Currently Learning
 - Advanced RAG techniques
 - LangGraph & AI Agents
